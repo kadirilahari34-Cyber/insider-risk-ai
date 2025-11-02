@@ -164,13 +164,3 @@ Passionate about identity security and SOC operations 🚀
 📫 LinkedIn: www.linkedin.com/in/kadiri-lahari3
 📌 Portfolio Projects Coming Soon
 
----
-
-## ⭐ If You Like It
-
-Feel free to ⭐ star the repo — feedback and suggestions welcome! 🙌
-
----
-
-
-Just say: **Yes — add visuals!** 🙌
