@@ -1,0 +1,1441 @@
+timestamp,user,ip,city,country,latitude,longitude,device,mfa_result,success,role,is_admin
+2026-01-01T08:20:55,charlie,22.186.231.144,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-01T08:27:18,geeta,132.28.131.109,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-01T10:08:13,dana,94.183.167.203,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-01T10:38:59,bob,70.180.196.80,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,admin,1
+2026-01-01T11:12:10,dana,59.58.187.253,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-01-01T12:03:22,edgar,33.125.60.82,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-01T13:08:23,hari,165.10.61.237,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-01T13:12:45,alice,151.72.208.223,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-01T13:27:54,bob,173.165.143.7,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-01T14:00:48,alice,40.56.246.196,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-01T14:15:46,charlie,28.35.78.2,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-01T15:05:37,alice,130.155.7.144,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-01-01T16:48:57,hari,63.159.21.16,San Jose,US,37.3382,-121.8863,Win11-Work,1,1,engineer,0
+2026-01-01T16:57:15,charlie,36.69.78.69,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-01T17:50:13,frida,31.71.37.194,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-01T19:31:09,charlie,201.20.93.65,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,analyst,0
+2026-01-01T21:26:10,frida,237.149.11.35,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-01T21:35:50,edgar,188.50.6.177,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-01T21:49:32,geeta,101.12.22.107,Frankfurt,DE,50.1109,8.6821,Android,1,1,employee,0
+2026-01-01T23:26:06,geeta,91.66.150.21,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-02T00:52:16,edgar,130.98.188.48,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-02T01:00:00,frida,228.73.107.178,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-02T02:56:55,alice,170.59.198.75,Philadelphia,US,39.9526,-75.1652,iPhone,1,0,employee,0
+2026-01-02T02:58:21,bob,169.103.18.37,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-02T06:06:41,dana,114.98.32.141,New York,US,40.7128,-74.006,Win10-Laptop,0,1,analyst,0
+2026-01-02T08:24:22,edgar,181.113.144.76,New York,US,40.7128,-74.006,iPhone,1,0,employee,0
+2026-01-02T09:02:24,dana,13.153.13.170,New York,US,40.7128,-74.006,MacBook,1,0,analyst,0
+2026-01-02T09:29:34,alice,76.213.161.159,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-01-02T09:50:48,hari,7.59.217.188,Bengaluru,IN,12.9716,77.5946,MacBook,1,1,engineer,0
+2026-01-02T10:46:38,hari,35.72.82.165,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-02T11:21:21,hari,171.254.64.206,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-02T11:25:21,charlie,113.86.111.209,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-02T12:06:50,frida,5.226.125.21,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-01-02T12:10:23,bob,153.22.227.14,Philadelphia,US,39.9526,-75.1652,Android,1,1,admin,1
+2026-01-02T13:34:44,edgar,83.188.120.71,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-02T13:55:53,edgar,136.40.116.76,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-02T14:09:10,bob,114.170.109.125,Philadelphia,US,39.9526,-75.1652,MacBook,0,0,admin,1
+2026-01-02T14:38:16,geeta,2.102.30.4,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-02T16:56:45,geeta,172.116.160.207,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-02T17:30:20,charlie,189.178.163.126,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-02T18:16:21,geeta,48.21.192.252,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-02T18:52:55,charlie,155.243.178.52,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-02T20:51:50,frida,164.70.134.116,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-02T21:21:06,alice,68.207.12.187,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-02T21:47:40,bob,97.108.117.88,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-02T23:16:30,dana,3.78.108.170,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-03T02:56:01,edgar,83.185.17.169,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-03T04:05:54,alice,163.214.94.42,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-03T06:00:04,hari,163.254.37.241,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-03T09:26:15,frida,47.184.128.157,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-01-03T11:10:41,geeta,248.191.155.186,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-03T11:23:22,alice,166.19.156.163,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-03T11:36:12,charlie,141.7.244.187,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-03T12:43:43,bob,57.102.253.154,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-03T12:43:44,hari,83.47.114.162,San Jose,US,37.3382,-121.8863,Win11-Work,1,1,engineer,0
+2026-01-03T13:03:00,bob,196.66.75.84,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-03T13:38:28,bob,89.111.29.73,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-03T14:34:52,edgar,142.40.157.73,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-03T15:10:34,alice,254.237.164.177,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-03T15:31:19,geeta,173.247.177.173,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-03T17:05:40,frida,143.61.50.31,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-03T18:20:26,edgar,18.12.214.241,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-03T18:29:45,charlie,18.210.218.204,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-01-03T18:32:46,dana,128.51.156.52,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-03T18:36:50,charlie,101.94.30.239,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-03T19:06:42,dana,108.213.231.27,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-03T19:13:08,hari,186.120.80.43,Dallas,US,32.7767,-96.797,MacBook,1,0,engineer,0
+2026-01-04T00:05:58,dana,131.20.186.186,Frankfurt,DE,50.1109,8.6821,MacBook,1,0,analyst,0
+2026-01-04T02:35:14,alice,59.211.9.207,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-04T03:40:42,frida,39.176.217.248,New York,US,40.7128,-74.006,Android,0,1,employee,0
+2026-01-04T07:08:11,edgar,26.9.147.165,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-04T07:50:26,charlie,65.169.40.184,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-04T08:13:27,frida,117.12.27.190,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-04T08:20:25,alice,225.184.81.55,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-04T09:33:06,frida,130.57.119.198,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-04T09:38:45,edgar,214.21.120.206,Dallas,US,32.7767,-96.797,MacBook,1,1,employee,0
+2026-01-04T11:46:12,hari,74.148.115.248,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-04T12:07:00,bob,137.181.59.129,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-04T13:06:57,dana,76.68.119.13,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-04T13:12:54,geeta,112.216.161.220,Frankfurt,DE,50.1109,8.6821,Win11-Work,1,1,employee,0
+2026-01-04T13:49:16,dana,105.76.42.11,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-04T14:35:31,dana,61.1.4.172,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-04 02:00:00,bob,190.11.112.5,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,admin,1
+2026-01-04T15:10:30,hari,195.40.210.245,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-04T16:25:51,geeta,29.209.5.179,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-01-04T16:27:50,charlie,150.103.137.130,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-04T16:40:12,hari,249.93.102.97,San Jose,US,37.3382,-121.8863,iPhone,1,0,engineer,0
+2026-01-04T16:50:34,geeta,122.109.6.30,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-04T16:53:24,edgar,66.13.94.57,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-04T18:41:31,alice,68.36.64.191,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-04T18:58:30,frida,14.166.94.73,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-04T23:59:58,charlie,248.93.180.230,Chicago,US,41.8781,-87.6298,Win11-Work,1,0,analyst,0
+2026-01-05T04:03:52,edgar,214.78.20.242,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-05T06:57:28,dana,96.209.88.47,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-05T08:29:58,bob,182.164.107.75,London,GB,51.5074,-0.1278,Win11-Work,1,1,admin,1
+2026-01-05T09:38:04,alice,65.249.142.221,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-05T10:13:33,edgar,135.169.64.146,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,employee,0
+2026-01-05T10:21:50,charlie,131.192.133.143,Chicago,US,41.8781,-87.6298,Win10-Laptop,0,1,analyst,0
+2026-01-05T10:35:34,alice,103.93.57.36,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-05T11:14:49,frida,223.52.97.229,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,employee,0
+2026-01-05T11:40:03,edgar,211.95.204.182,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-05T12:37:15,geeta,14.86.3.27,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-05T12:40:54,geeta,189.149.153.188,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-05T13:23:05,bob,103.135.21.102,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-05T13:32:31,alice,41.203.175.109,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-01-05T14:34:09,hari,79.117.73.97,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-05T14:35:38,hari,51.40.235.49,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-05T15:06:52,dana,206.174.81.110,New York,US,40.7128,-74.006,MacBook,0,1,analyst,0
+2026-01-05T16:07:25,bob,118.213.177.236,London,GB,51.5074,-0.1278,MacBook,1,1,admin,1
+2026-01-05T16:15:46,frida,192.174.230.84,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-05T16:51:34,charlie,64.169.171.91,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-05T17:03:59,frida,132.30.19.230,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-01-05T17:10:41,charlie,166.103.248.193,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-05T19:47:07,dana,166.44.85.92,Philadelphia,US,39.9526,-75.1652,iPhone,0,1,analyst,0
+2026-01-05T19:50:30,hari,233.236.77.153,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,0,engineer,0
+2026-01-05T20:10:57,geeta,121.6.221.116,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-05T20:35:18,geeta,157.240.174.232,Bengaluru,IN,12.9716,77.5946,MacBook,1,1,employee,0
+2026-01-06T00:12:21,frida,35.29.219.120,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-01-06T01:14:04,frida,38.56.238.157,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-06T01:37:44,charlie,198.174.151.177,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-06T02:00:43,alice,69.197.165.88,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-06T05:00:00,hari,104.237.107.241,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-06T07:07:53,charlie,117.201.53.134,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-06T07:22:28,geeta,50.121.89.113,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,employee,0
+2026-01-06T08:32:21,edgar,239.91.232.81,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-06T09:32:48,alice,77.216.164.130,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-06T09:43:29,edgar,203.47.141.103,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-06T11:07:18,alice,225.185.68.249,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-06T11:25:47,hari,151.19.105.227,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-06T11:33:32,bob,246.210.166.209,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-06T12:07:25,dana,177.218.123.205,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-06T12:29:11,frida,162.92.250.70,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-06T12:40:11,edgar,197.164.148.92,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-06T12:55:19,bob,20.131.163.30,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-06T13:26:41,dana,186.16.252.242,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-06T14:02:58,hari,196.112.246.66,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-06T14:32:09,charlie,107.236.247.22,Chicago,US,41.8781,-87.6298,MacBook,0,1,analyst,0
+2026-01-06T17:04:17,geeta,127.160.241.166,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-06T18:52:55,geeta,109.148.81.142,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-07T00:42:29,geeta,246.107.214.241,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-07T01:04:16,dana,135.197.191.148,New York,US,40.7128,-74.006,Android,0,1,analyst,0
+2026-01-07T04:09:15,bob,195.195.168.20,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,admin,1
+2026-01-07T06:03:41,hari,123.9.236.209,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-01-07T06:49:58,hari,163.177.95.179,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-07T06:51:45,charlie,43.239.252.190,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,analyst,0
+2026-01-07T07:33:31,frida,119.72.4.187,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-07T08:30:22,charlie,82.18.77.12,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-07T09:19:15,alice,18.251.195.137,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-07 02:00:00,bob,149.115.175.237,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,admin,1
+2026-01-07T10:29:26,frida,155.41.203.204,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-07T11:15:33,charlie,246.119.60.205,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-07T11:25:40,charlie,8.189.158.227,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-07T11:40:39,frida,59.23.106.220,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-07T11:46:36,dana,133.134.177.180,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-07T12:23:40,hari,38.67.155.117,San Jose,US,37.3382,-121.8863,iPhone,0,1,engineer,0
+2026-01-07T12:43:41,geeta,217.42.160.54,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-07T14:00:38,alice,225.253.213.207,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,employee,0
+2026-01-07T14:14:32,geeta,155.219.216.184,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-01-07T14:22:39,dana,228.106.113.12,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-07T16:35:20,edgar,212.186.83.156,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-07T19:15:36,edgar,191.66.93.247,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-07T19:38:12,alice,200.237.136.236,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-07T21:54:10,dana,47.157.98.200,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,analyst,0
+2026-01-07T22:56:36,bob,249.161.81.39,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-08T00:09:53,dana,3.165.240.41,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-08T06:28:28,edgar,73.153.5.133,New York,US,40.7128,-74.006,iPhone,0,0,employee,0
+2026-01-08T06:33:58,hari,65.178.78.129,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-08T07:34:42,hari,193.225.237.187,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-08T07:49:05,hari,151.250.231.21,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-08T07:51:50,charlie,94.84.51.118,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-08T08:52:44,edgar,147.238.147.40,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-08T10:54:05,bob,142.245.203.190,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-08T11:18:44,geeta,52.41.156.126,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-08T12:08:56,edgar,220.81.6.198,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-08T12:09:58,frida,11.254.121.188,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-01-08T14:04:19,bob,74.20.166.222,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,admin,1
+2026-01-08T14:06:50,geeta,54.143.13.5,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-08T15:49:08,alice,68.136.224.156,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-01-08T18:27:47,frida,57.229.238.152,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-08T20:28:04,bob,152.15.91.130,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-08T20:43:09,hari,216.42.4.30,San Jose,US,37.3382,-121.8863,Win11-Work,1,1,engineer,0
+2026-01-08T21:27:13,alice,183.80.103.172,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-08T21:39:06,dana,170.174.165.99,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-08T23:12:28,charlie,53.72.193.181,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-09T00:06:02,edgar,228.150.64.60,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-09T00:18:15,frida,79.42.181.118,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-09T03:25:37,charlie,209.173.181.205,London,GB,51.5074,-0.1278,MacBook,1,1,analyst,0
+2026-01-09T06:09:03,bob,252.183.22.130,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-09T06:32:54,dana,193.126.83.62,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-09T09:15:05,frida,244.56.34.92,New York,US,40.7128,-74.006,Android,0,1,employee,0
+2026-01-09T09:57:02,bob,83.155.122.129,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-09T11:08:46,alice,201.122.207.105,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-09T11:21:50,geeta,69.230.39.219,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-01-09T11:44:19,hari,18.199.179.107,Chicago,US,41.8781,-87.6298,Android,1,0,engineer,0
+2026-01-09T12:07:16,charlie,81.153.100.157,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-09T12:47:41,dana,1.212.24.203,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,analyst,0
+2026-01-09T13:16:51,edgar,56.188.20.186,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-09T14:11:23,charlie,36.148.99.109,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-09T14:57:02,alice,172.125.55.139,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-09T15:21:17,dana,210.61.21.118,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,analyst,0
+2026-01-09T15:37:35,alice,162.16.59.18,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,employee,0
+2026-01-09T15:49:32,frida,211.26.116.127,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,employee,0
+2026-01-09T16:19:58,charlie,31.62.79.30,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-09T17:25:11,frida,163.1.221.161,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-09T17:28:51,dana,81.31.252.128,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-09T19:20:50,edgar,180.148.210.233,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-09T19:54:36,frida,198.36.224.181,New York,US,40.7128,-74.006,MacBook,0,1,employee,0
+2026-01-09T20:55:05,hari,54.239.192.102,London,GB,51.5074,-0.1278,iPhone,1,1,engineer,0
+2026-01-09T21:51:04,geeta,144.58.125.67,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-01-09T22:22:56,geeta,221.229.129.9,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-09T23:41:23,alice,58.17.87.6,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-10T04:44:55,geeta,238.243.113.205,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-10T07:33:26,hari,96.48.181.35,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-10T08:21:04,bob,65.186.219.169,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-10T08:58:49,edgar,239.223.31.223,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-10T09:39:34,frida,159.226.86.189,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-10T09:41:11,bob,157.41.94.96,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,1,admin,1
+2026-01-10T09:58:38,bob,37.235.90.80,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-10T10:06:52,geeta,31.223.53.234,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-10T11:00:21,dana,141.134.96.180,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-10T11:18:08,charlie,222.92.244.3,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-10T11:58:18,bob,14.203.162.166,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-10T12:12:31,hari,209.55.48.52,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-10T14:03:47,hari,231.224.105.113,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-10T14:12:06,alice,222.187.14.173,Bengaluru,IN,12.9716,77.5946,Win11-Work,1,1,employee,0
+2026-01-10T15:29:53,geeta,157.201.220.243,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-10T15:38:30,dana,25.195.169.57,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-10T16:11:31,charlie,45.143.43.126,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-01-10T17:34:28,alice,224.237.20.114,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-10T18:06:38,edgar,98.21.200.15,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-01-10T18:38:39,dana,168.172.117.244,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-10T18:41:41,alice,28.64.50.49,Bengaluru,IN,12.9716,77.5946,Win11-Work,1,1,employee,0
+2026-01-10T22:21:23,dana,85.144.197.159,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-10T23:04:24,frida,110.193.70.179,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-01-11T02:17:04,hari,173.195.26.3,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-11T02:51:55,alice,139.215.4.249,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-11T03:13:21,bob,36.40.20.76,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-11T03:59:03,frida,14.29.99.94,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-11T06:03:19,edgar,84.129.179.57,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-11T06:06:02,dana,191.185.105.28,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-11T06:09:41,geeta,52.113.249.107,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-11T06:31:08,charlie,168.127.105.176,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-11T08:29:39,frida,18.144.182.199,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,employee,0
+2026-01-11T12:03:17,hari,253.11.25.55,San Jose,US,37.3382,-121.8863,iPhone,0,1,engineer,0
+2026-01-11T12:05:59,alice,124.55.222.103,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-11T14:09:03,edgar,193.153.148.130,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-11T14:14:18,charlie,118.145.191.198,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,analyst,0
+2026-01-11T15:31:26,charlie,145.8.204.195,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-11T15:40:58,hari,76.22.97.32,San Jose,US,37.3382,-121.8863,Win11-Work,1,1,engineer,0
+2026-01-11T15:49:49,geeta,22.69.96.184,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,1,employee,0
+2026-01-11T15:57:03,alice,238.201.201.117,Philadelphia,US,39.9526,-75.1652,Win11-Work,0,1,employee,0
+2026-01-11T16:16:39,dana,56.118.212.201,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-11T18:23:10,geeta,128.188.223.26,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-11T19:18:27,alice,170.184.125.40,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-11T20:41:44,bob,22.80.144.97,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-11T20:49:14,edgar,163.200.162.98,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-11T21:33:05,bob,93.80.47.244,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-11T23:41:50,bob,243.190.176.234,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-12T01:17:32,frida,89.116.125.129,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-01-12T02:33:53,frida,137.231.75.116,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-12T04:24:39,hari,1.117.223.179,London,GB,51.5074,-0.1278,MacBook,1,1,engineer,0
+2026-01-12T04:54:50,bob,159.34.153.97,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-12T07:48:08,edgar,147.51.144.158,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-12T07:49:31,charlie,199.140.211.254,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-12T08:07:49,dana,130.35.247.128,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-12T09:13:08,frida,123.189.241.193,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-12T10:47:03,edgar,112.199.179.34,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-12T11:14:08,geeta,118.244.219.133,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-12T11:47:33,edgar,83.176.237.148,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-12T12:02:26,bob,157.73.193.192,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-12T12:48:26,geeta,193.136.108.202,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-12T13:05:14,edgar,87.22.122.147,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-12T13:06:47,charlie,9.116.68.90,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-12T13:37:55,frida,58.83.91.230,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-12T14:00:33,dana,150.124.237.131,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-12T14:33:50,hari,87.155.110.87,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-12T16:03:37,alice,15.246.131.21,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-12T16:12:18,alice,16.192.81.15,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-01-12T17:23:43,hari,241.93.171.103,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-12T18:23:34,charlie,140.56.254.109,Chicago,US,41.8781,-87.6298,MacBook,0,1,analyst,0
+2026-01-12T19:50:43,geeta,3.184.207.133,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-01-12T20:09:10,bob,232.43.185.113,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-12T20:12:45,dana,163.215.173.151,New York,US,40.7128,-74.006,MacBook,1,0,analyst,0
+2026-01-13T03:59:16,alice,102.34.172.166,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-13T04:51:42,geeta,227.175.180.142,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-13T05:15:37,alice,150.145.134.81,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-13T08:01:49,edgar,254.206.114.160,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-13T09:04:05,geeta,112.16.101.195,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-13T09:55:52,charlie,208.189.151.177,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-13T11:06:10,frida,224.53.134.244,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-13T11:12:23,bob,197.73.200.98,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-13T12:05:07,edgar,83.89.153.168,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-13T12:22:55,charlie,36.201.53.209,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-01-13T12:57:56,frida,74.246.245.20,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-13T13:07:47,edgar,4.88.178.206,Chicago,US,41.8781,-87.6298,iPhone,1,1,employee,0
+2026-01-13T13:18:18,charlie,231.174.209.25,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-13T14:02:42,geeta,251.162.251.183,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-13T14:13:51,charlie,44.83.251.181,London,GB,51.5074,-0.1278,iPhone,1,1,analyst,0
+2026-01-13T14:42:38,dana,108.251.156.235,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-01-13T15:32:33,bob,155.36.224.65,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-13T15:49:58,dana,209.33.27.100,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-13T17:09:28,edgar,194.187.219.22,Dallas,US,32.7767,-96.797,MacBook,1,1,employee,0
+2026-01-13T17:50:28,bob,201.121.232.214,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-13T17:54:11,alice,31.242.228.146,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-13T18:25:46,hari,32.223.136.72,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,0,engineer,0
+2026-01-13T18:26:42,hari,209.83.5.163,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-13T19:23:55,hari,125.103.190.157,London,GB,51.5074,-0.1278,Win11-Work,1,1,engineer,0
+2026-01-13T19:44:48,hari,169.223.122.132,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-13T19:44:48,dana,76.116.207.35,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-13T20:39:23,frida,241.227.17.49,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-14T00:23:18,alice,157.252.253.207,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-14T03:55:08,charlie,195.216.174.101,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-14T05:01:24,edgar,44.16.73.52,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-01-14T06:36:50,hari,204.23.78.214,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-07T07:36:45,charlie,116.20.163.204,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,analyst,0
+2026-01-14T08:33:41,frida,202.84.125.152,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-14T08:39:58,geeta,228.140.160.202,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-14T09:50:05,hari,122.253.169.220,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-14T10:28:47,frida,224.206.60.214,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-01-14T11:04:34,alice,226.18.226.63,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-14T11:07:18,bob,38.213.112.24,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,admin,1
+2026-01-14T11:08:26,dana,216.180.141.221,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-14T11:08:48,charlie,222.168.33.180,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-14T11:50:44,edgar,3.18.100.170,New York,US,40.7128,-74.006,MacBook,0,1,employee,0
+2026-01-14T12:40:01,frida,34.122.89.108,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-14T13:20:45,dana,54.160.183.75,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-14T13:39:41,geeta,167.104.199.51,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-14T14:41:33,alice,225.35.68.30,San Jose,US,37.3382,-121.8863,Win11-Work,1,1,employee,0
+2026-01-14T16:07:19,edgar,138.55.53.140,New York,US,40.7128,-74.006,Android,0,1,employee,0
+2026-01-07T14:45:38,alice,118.160.145.26,Bengaluru,IN,12.9716,77.5946,Win11-Work,1,0,employee,0
+2026-01-14T16:44:57,hari,37.223.134.225,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,engineer,0
+2026-01-14T17:58:14,bob,107.14.102.129,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-14T18:33:48,edgar,37.178.179.172,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-14T23:03:41,bob,183.217.133.218,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,admin,1
+2026-01-14T23:55:19,geeta,212.72.231.136,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-15T02:42:45,dana,74.225.217.109,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-15T02:56:06,alice,54.184.88.53,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-15T02:56:19,geeta,226.33.134.254,London,GB,51.5074,-0.1278,iPhone,1,1,employee,0
+2026-01-15T04:37:00,charlie,249.118.163.171,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,0,analyst,0
+2026-01-15T04:41:24,edgar,26.232.81.125,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-15T06:01:01,geeta,214.199.78.186,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-15T07:56:49,charlie,117.244.125.84,San Jose,US,37.3382,-121.8863,MacBook,1,1,analyst,0
+2026-01-15T08:45:01,hari,197.72.57.185,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-15T10:23:15,bob,82.239.26.215,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-15T10:44:22,charlie,248.110.212.55,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-08T11:39:05,bob,235.213.121.179,Bengaluru,IN,12.9716,77.5946,Win11-Work,1,0,admin,1
+2026-01-15T12:17:42,edgar,5.75.223.227,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-15T13:09:22,frida,42.183.138.74,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-15T13:34:15,hari,180.23.28.112,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-15T15:34:44,dana,144.123.150.147,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-07T22:39:10,dana,250.246.46.129,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,analyst,0
+2026-01-15T17:19:10,frida,74.198.217.13,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-15T18:55:38,edgar,118.144.238.183,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-15T19:43:35,hari,245.30.124.170,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-01-15T19:53:08,bob,232.21.5.66,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-15T21:43:40,alice,233.217.14.24,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-01-15T22:34:18,geeta,88.194.163.41,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-15T22:42:44,frida,146.34.230.203,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-16T05:35:54,hari,75.23.29.23,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-16T08:16:42,hari,35.237.137.163,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-01-16T08:31:17,charlie,34.145.219.125,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-16T09:11:11,frida,40.42.61.30,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-16T09:13:53,bob,109.29.199.74,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-16T09:18:13,dana,27.158.223.173,New York,US,40.7128,-74.006,Android,0,1,analyst,0
+2026-01-16T10:01:02,edgar,101.191.41.5,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-16T10:27:32,geeta,130.91.32.13,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-16T11:10:47,alice,29.20.242.227,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-16T12:48:41,geeta,2.117.87.252,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-16T14:51:00,dana,172.15.52.69,New York,US,40.7128,-74.006,iPhone,0,1,analyst,0
+2026-01-16T16:42:20,frida,250.42.137.78,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-16T17:41:21,hari,98.168.165.201,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-16T17:46:31,hari,197.237.154.17,London,GB,51.5074,-0.1278,iPhone,1,1,engineer,0
+2026-01-16T18:01:07,charlie,254.246.110.52,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-01-16T18:48:50,dana,215.16.177.201,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-16T18:50:21,charlie,161.201.215.118,Chicago,US,41.8781,-87.6298,iPhone,1,0,analyst,0
+2026-01-16T19:22:43,edgar,251.251.129.71,New York,US,40.7128,-74.006,iPhone,1,0,employee,0
+2026-01-16T20:02:20,frida,53.144.182.9,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-16T20:15:51,geeta,241.161.171.137,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-16T22:15:19,bob,160.118.17.29,Philadelphia,US,39.9526,-75.1652,Android,1,1,admin,1
+2026-01-16T23:40:27,alice,34.164.251.68,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-01-17T01:19:46,charlie,181.25.1.55,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-17T01:20:24,hari,138.49.217.100,San Jose,US,37.3382,-121.8863,Win10-Laptop,0,0,engineer,0
+2026-01-17T06:02:19,alice,11.231.92.54,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-17T06:27:20,hari,33.134.170.155,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-01-17T07:19:58,edgar,168.36.149.139,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-17T07:44:58,charlie,239.225.71.24,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-17T07:51:03,edgar,209.254.8.242,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-17T08:54:38,geeta,209.184.147.173,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-17T09:21:47,hari,147.95.33.219,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-17T10:55:30,bob,5.92.202.18,Bengaluru,IN,12.9716,77.5946,iPhone,1,1,admin,1
+2026-01-17T11:23:04,bob,130.142.6.100,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-17T12:18:27,bob,171.172.22.135,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,admin,1
+2026-01-17T12:47:34,frida,122.230.75.249,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-01-17T13:41:23,charlie,43.14.102.161,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-17T13:49:23,geeta,106.21.24.16,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-17T14:33:43,edgar,62.147.40.110,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-17T15:43:15,alice,224.105.250.159,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-17T16:47:35,dana,61.131.201.204,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-17T16:48:36,frida,237.114.87.177,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-17T18:08:45,geeta,133.150.50.211,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-17T18:44:57,alice,142.38.111.33,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,employee,0
+2026-01-17T19:51:44,dana,100.107.245.202,New York,US,40.7128,-74.006,Win10-Laptop,1,0,analyst,0
+2026-01-17T21:35:17,edgar,36.23.187.98,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-17T22:07:58,frida,238.82.40.2,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,1,employee,0
+2026-01-17T22:53:57,bob,148.62.184.37,Philadelphia,US,39.9526,-75.1652,Android,1,1,admin,1
+2026-01-17T23:37:14,hari,38.209.242.76,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,engineer,0
+2026-01-18T01:52:07,charlie,19.59.99.23,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-18T03:59:31,geeta,130.33.125.183,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-18T06:02:22,bob,200.176.119.252,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-18T08:27:56,geeta,174.135.104.151,Philadelphia,US,39.9526,-75.1652,iPhone,1,0,employee,0
+2026-01-18T08:46:51,charlie,98.199.209.193,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,analyst,0
+2026-01-18T10:35:33,geeta,163.109.113.177,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-18T11:43:04,dana,97.11.110.72,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-18T11:43:51,edgar,231.135.233.35,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-18T12:26:01,alice,106.206.172.222,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-18T12:33:14,frida,22.138.218.115,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-18T12:43:20,dana,52.159.223.200,New York,US,40.7128,-74.006,Win10-Laptop,0,1,analyst,0
+2026-01-18T12:53:14,hari,38.192.171.218,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-18T13:55:55,dana,182.166.95.194,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-18T14:37:34,dana,50.76.115.46,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-18T14:47:09,alice,205.208.46.226,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-18T15:22:15,bob,189.194.86.35,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-18T15:30:04,charlie,3.3.179.88,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-18T16:35:34,edgar,226.38.187.8,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-18T16:39:53,frida,156.165.50.150,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-18T16:44:30,bob,199.242.118.10,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,admin,1
+2026-01-18T19:27:58,edgar,235.41.82.18,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-18T20:07:46,frida,30.79.7.103,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-01-19T00:09:02,dana,239.161.158.216,New York,US,40.7128,-74.006,Win11-Work,1,0,analyst,0
+2026-01-19T02:30:14,alice,211.204.224.59,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-19T02:51:33,bob,111.155.211.47,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-19T04:35:16,dana,85.120.182.240,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-19T04:44:47,hari,77.253.209.169,Chicago,US,41.8781,-87.6298,iPhone,1,1,engineer,0
+2026-01-19T07:42:19,dana,201.182.82.135,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-19T07:47:51,alice,98.224.10.220,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-19T08:14:01,alice,18.248.198.72,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-19T08:55:08,charlie,145.3.157.167,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,0,analyst,0
+2026-01-19T10:28:57,bob,178.128.95.237,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-19T10:48:39,edgar,153.60.60.176,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-19T12:43:42,frida,126.82.155.155,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-19T13:03:51,hari,188.240.208.58,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-19T13:10:28,charlie,236.106.158.176,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-19T13:29:08,geeta,178.55.117.122,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-19T13:48:20,edgar,114.191.240.211,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-19T13:52:34,bob,74.92.221.200,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,admin,1
+2026-01-19T14:02:47,geeta,31.155.219.105,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-19T14:32:03,frida,219.110.95.99,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-19T14:57:40,edgar,28.34.48.7,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-19T16:28:55,charlie,32.151.187.99,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-19T17:03:55,bob,112.228.103.191,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-19T18:18:12,bob,80.132.102.254,Dallas,US,32.7767,-96.797,Android,1,1,admin,1
+2026-01-19T18:54:45,hari,75.181.248.97,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-19T19:23:00,frida,224.144.23.56,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-19T20:22:41,alice,85.241.8.30,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-19T21:01:22,edgar,121.183.167.96,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,1,employee,0
+2026-01-19T23:22:27,charlie,22.64.142.154,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-19T23:51:52,hari,254.177.32.71,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-20T03:59:57,geeta,190.126.1.32,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-20T04:39:33,dana,167.3.30.172,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-20T08:16:02,alice,138.176.185.241,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,employee,0
+2026-01-20T10:04:11,edgar,126.177.84.222,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-20T11:27:10,bob,223.234.91.158,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,admin,1
+2026-01-20T12:00:59,edgar,253.52.194.53,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-20T12:46:50,alice,99.231.148.49,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-20T12:58:54,hari,109.174.122.254,San Jose,US,37.3382,-121.8863,MacBook,0,1,engineer,0
+2026-01-20T13:14:11,dana,140.138.104.24,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-20T13:19:30,frida,239.246.152.194,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-20T15:11:54,edgar,58.9.105.196,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-20T15:46:56,frida,74.42.207.187,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-20T15:56:16,alice,28.153.112.89,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-20T16:27:17,bob,172.164.104.94,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,admin,1
+2026-01-20T17:19:13,charlie,76.166.14.201,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-20T17:22:48,hari,73.179.237.50,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-01-20T17:23:19,geeta,201.151.108.13,Philadelphia,US,39.9526,-75.1652,Win11-Work,0,1,employee,0
+2026-01-20T17:34:18,bob,79.115.155.184,Philadelphia,US,39.9526,-75.1652,Android,1,1,admin,1
+2026-01-20T17:47:47,alice,171.236.85.160,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-01-20T18:22:14,dana,76.56.244.193,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-20T19:38:46,charlie,218.217.169.225,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-20T19:57:27,frida,154.23.37.54,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-20T20:44:54,hari,203.149.222.207,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-20T22:07:07,geeta,31.96.79.254,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-21T00:35:22,geeta,145.116.231.87,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-21T07:20:42,alice,80.171.105.84,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-21T07:24:05,frida,182.146.194.235,San Jose,US,37.3382,-121.8863,MacBook,1,1,employee,0
+2026-01-21T07:34:25,edgar,196.162.247.13,New York,US,40.7128,-74.006,MacBook,0,1,employee,0
+2026-01-21T07:53:37,frida,7.203.1.40,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-21T09:22:28,dana,63.246.11.175,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-21T09:50:24,geeta,196.36.130.163,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-21T09:57:11,alice,1.78.74.54,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-21T11:33:56,charlie,34.100.221.215,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-21T12:28:02,bob,93.99.244.146,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-21T13:25:44,alice,241.98.174.192,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-21T13:56:20,dana,66.139.186.73,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-21T14:08:12,frida,11.211.212.78,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-21T15:57:50,charlie,128.164.153.19,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-01-21T16:01:58,dana,131.115.125.12,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-21T16:29:56,edgar,189.212.98.185,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-01-21T17:02:38,bob,114.196.20.147,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-21T17:30:18,hari,51.189.167.3,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-01-21T18:36:26,charlie,245.253.198.19,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-21T19:03:54,hari,148.36.114.179,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-21T20:20:25,edgar,135.165.225.181,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-21T21:32:51,bob,218.156.174.201,Philadelphia,US,39.9526,-75.1652,iPhone,1,0,admin,1
+2026-01-21T21:50:02,edgar,11.225.63.133,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-22T00:27:43,hari,250.122.46.242,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,0,engineer,0
+2026-01-22T07:18:57,dana,25.43.249.245,New York,US,40.7128,-74.006,Win10-Laptop,1,0,analyst,0
+2026-01-22T08:18:39,edgar,119.213.166.116,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-22T09:18:40,charlie,103.22.164.138,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-22T10:27:50,alice,114.173.55.131,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-22T12:11:31,bob,199.67.181.115,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,admin,1
+2026-01-22T12:43:27,dana,225.250.190.199,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-01-22T13:08:33,bob,246.30.7.189,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-22T13:13:39,bob,32.35.219.19,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-22T13:20:42,bob,229.77.218.41,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-22T14:29:48,geeta,84.23.205.160,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-22T17:16:19,frida,168.171.229.74,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-22T18:01:37,charlie,243.203.102.130,San Jose,US,37.3382,-121.8863,MacBook,1,1,analyst,0
+2026-01-22T18:28:11,bob,175.248.217.253,Philadelphia,US,39.9526,-75.1652,iPhone,1,0,admin,1
+2026-01-22T18:42:39,geeta,139.12.246.172,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-22T18:50:49,geeta,144.22.50.245,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-22T18:56:28,geeta,182.7.147.162,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-22T19:03:07,hari,249.39.161.185,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-22T19:25:15,hari,153.245.45.168,Dallas,US,32.7767,-96.797,Android,1,1,engineer,0
+2026-01-22T19:49:34,dana,162.199.55.222,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-22T20:12:18,edgar,74.119.43.109,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-22T21:40:39,alice,173.80.58.207,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-22T23:23:46,hari,220.38.97.244,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-22T23:30:50,alice,22.73.132.170,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-23T07:02:05,dana,148.211.59.234,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-01-23T07:37:03,frida,92.42.14.70,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-23T08:12:09,alice,197.19.117.107,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,employee,0
+2026-01-23T08:16:26,dana,5.100.173.31,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-23T09:12:50,bob,142.147.95.120,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,admin,1
+2026-01-23T09:51:35,bob,102.184.185.123,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,admin,1
+2026-01-23T10:39:34,geeta,49.193.122.129,Philadelphia,US,39.9526,-75.1652,iPhone,0,1,employee,0
+2026-01-23T11:25:26,edgar,230.183.230.52,New York,US,40.7128,-74.006,MacBook,0,1,employee,0
+2026-01-23T12:04:38,frida,223.67.161.176,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-23T12:52:41,hari,3.31.30.22,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-23T13:26:11,frida,31.196.71.127,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-23T14:34:39,charlie,236.53.250.207,Chicago,US,41.8781,-87.6298,Android,1,0,analyst,0
+2026-01-23T14:44:00,alice,200.109.57.46,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-23T15:15:53,geeta,207.137.156.83,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-23T15:45:45,bob,131.58.32.253,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-23T15:47:24,hari,23.200.119.222,San Jose,US,37.3382,-121.8863,Win11-Work,1,1,engineer,0
+2026-01-23T15:57:01,geeta,5.71.202.53,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-23T16:25:37,geeta,7.221.136.82,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-23T17:07:31,hari,151.147.253.147,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-23T17:09:34,charlie,167.175.165.17,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-23T17:27:41,dana,7.118.184.85,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-23T17:56:29,edgar,204.42.184.188,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,employee,0
+2026-01-23T18:05:46,edgar,229.179.140.35,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-23T19:30:44,frida,5.217.67.42,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-23T19:56:40,alice,103.63.38.168,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-23T21:19:44,charlie,63.23.237.112,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-23T22:07:29,charlie,169.190.45.31,Chicago,US,41.8781,-87.6298,Win11-Work,0,1,analyst,0
+2026-01-24T01:23:26,frida,75.136.164.240,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-01-24T06:24:16,geeta,47.66.197.23,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-24T09:00:45,charlie,89.134.133.201,Chicago,US,41.8781,-87.6298,MacBook,0,1,analyst,0
+2026-01-24T09:07:05,edgar,182.99.187.203,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,0,employee,0
+2026-01-24T09:07:49,charlie,135.17.68.183,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-24T09:09:19,geeta,247.84.47.7,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-01-24T09:33:26,bob,249.82.165.19,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,admin,1
+2026-01-24T09:52:46,charlie,224.69.188.227,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-24T12:04:32,frida,154.193.43.140,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-24T12:11:25,hari,138.201.208.136,San Jose,US,37.3382,-121.8863,Win10-Laptop,0,1,engineer,0
+2026-01-24T12:30:17,hari,99.124.166.180,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-24T12:48:59,dana,122.41.137.57,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-24T13:27:19,hari,233.221.204.138,San Jose,US,37.3382,-121.8863,iPhone,1,0,engineer,0
+2026-01-24T15:28:29,bob,200.142.164.151,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-24T15:45:03,geeta,229.83.67.97,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-24T16:34:00,dana,150.12.180.218,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-24T17:04:22,dana,78.156.23.73,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-24T17:32:39,edgar,197.44.234.86,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-24T17:51:29,alice,244.194.229.114,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-24T17:51:44,alice,218.32.117.35,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-01-24T18:11:49,bob,15.213.32.133,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-24T19:36:40,charlie,220.146.43.95,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,0,analyst,0
+2026-01-24T20:36:55,edgar,46.197.183.14,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-25T01:20:55,frida,70.176.179.177,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-25T05:48:13,hari,154.178.47.2,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-25T07:39:52,alice,141.115.230.41,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-25T07:43:56,dana,96.246.244.3,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-25T09:00:02,charlie,94.99.236.39,Chicago,US,41.8781,-87.6298,iPhone,0,0,analyst,0
+2026-01-25T09:26:19,edgar,161.47.31.231,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-25T09:31:04,hari,203.167.32.193,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-25T10:11:59,charlie,183.190.168.108,Chicago,US,41.8781,-87.6298,Win11-Work,0,1,analyst,0
+2026-01-25T10:33:31,alice,74.61.70.86,Philadelphia,US,39.9526,-75.1652,Android,1,0,employee,0
+2026-01-25T10:38:56,edgar,117.105.114.21,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-25T11:35:55,dana,153.101.138.141,New York,US,40.7128,-74.006,Win10-Laptop,1,0,analyst,0
+2026-01-25T13:10:16,charlie,30.59.190.131,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-01-25T13:23:06,frida,36.133.73.96,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-25T14:49:31,frida,56.40.129.57,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-25T15:47:55,alice,164.71.197.200,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-25T17:14:20,charlie,212.20.147.96,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-25T18:09:19,bob,89.243.241.133,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-25T19:08:47,dana,246.163.37.77,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-25T20:52:57,geeta,151.61.127.131,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-25T22:57:18,bob,142.71.33.161,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-25T23:08:12,edgar,128.140.207.2,San Jose,US,37.3382,-121.8863,Android,0,0,employee,0
+2026-01-26T02:53:12,frida,244.135.217.137,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-01-26T07:57:49,alice,196.148.98.123,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-26T08:00:22,alice,214.108.138.192,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-26T08:09:03,edgar,171.148.215.155,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-01-26T09:07:32,charlie,133.252.12.245,Chicago,US,41.8781,-87.6298,Win10-Laptop,0,1,analyst,0
+2026-01-26T09:25:04,charlie,80.84.23.142,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-26T09:30:01,geeta,69.142.247.151,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-26T10:23:37,charlie,188.231.140.195,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-26T11:20:57,alice,178.40.181.55,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-26T12:04:26,alice,53.214.108.100,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-01-26T12:42:51,dana,254.141.119.166,New York,US,40.7128,-74.006,Android,0,1,analyst,0
+2026-01-26T13:01:05,bob,107.159.164.8,San Jose,US,37.3382,-121.8863,MacBook,1,1,admin,1
+2026-01-26T13:45:35,frida,235.20.30.210,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-26T14:05:19,dana,55.106.232.166,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-26T14:19:39,bob,242.149.40.44,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-26T15:38:38,edgar,212.54.13.48,San Jose,US,37.3382,-121.8863,iPhone,1,1,employee,0
+2026-01-26T16:48:32,geeta,119.142.105.17,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-01-26T17:35:28,hari,53.168.42.23,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-26T17:43:06,geeta,78.146.105.115,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-26T18:39:42,edgar,46.248.117.192,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-26T18:54:32,dana,65.50.30.47,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-26T19:19:21,edgar,46.42.173.73,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-01-26T19:29:00,charlie,190.160.63.119,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-26T19:35:16,hari,130.77.94.248,San Jose,US,37.3382,-121.8863,MacBook,0,1,engineer,0
+2026-01-26 02:00:00,bob,145.11.212.222,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,admin,1
+2026-01-27T00:56:24,alice,214.21.121.5,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-27T06:43:25,bob,113.107.124.119,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,admin,1
+2026-01-27T08:06:13,charlie,16.249.37.183,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-27T08:50:15,charlie,139.89.163.215,Chicago,US,41.8781,-87.6298,MacBook,1,0,analyst,0
+2026-01-27T09:17:21,edgar,157.15.28.147,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-27T09:39:34,alice,22.165.110.35,Bengaluru,IN,12.9716,77.5946,MacBook,1,1,employee,0
+2026-01-27T09:55:29,alice,117.84.87.195,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-27T10:04:48,edgar,35.32.178.221,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-27T11:31:56,bob,124.63.207.207,Philadelphia,US,39.9526,-75.1652,Android,1,1,admin,1
+2026-01-27T11:35:04,dana,186.149.125.244,New York,US,40.7128,-74.006,Win10-Laptop,1,0,analyst,0
+2026-01-27T11:38:33,frida,8.191.209.31,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-01-27T12:20:31,dana,150.40.145.146,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-27T12:24:21,alice,216.120.236.33,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-27T12:47:34,alice,70.112.125.8,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-27T14:05:54,geeta,96.139.253.44,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-27T14:33:57,hari,148.126.178.81,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-27T15:34:10,hari,77.12.243.243,San Jose,US,37.3382,-121.8863,iPhone,1,0,engineer,0
+2026-01-27T16:37:23,edgar,95.230.98.210,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-27T16:50:15,geeta,116.11.1.209,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-27T17:44:56,charlie,218.189.187.79,London,GB,51.5074,-0.1278,MacBook,0,1,analyst,0
+2026-01-27T18:23:51,dana,64.202.57.183,New York,US,40.7128,-74.006,Android,1,0,analyst,0
+2026-01-27T18:29:53,geeta,16.239.236.124,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-27T19:08:59,frida,210.114.228.253,London,GB,51.5074,-0.1278,Android,1,1,employee,0
+2026-01-27T19:13:21,bob,188.253.221.89,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-27T19:14:08,frida,33.54.34.252,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-01-27T21:21:22,dana,159.18.231.50,New York,US,40.7128,-74.006,Win11-Work,1,1,analyst,0
+2026-01-28T02:17:05,charlie,180.230.96.118,Dallas,US,32.7767,-96.797,Android,1,1,analyst,0
+2026-01-28T06:17:38,geeta,216.162.55.150,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-28T07:33:58,hari,54.177.26.170,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-28T07:47:05,charlie,101.20.152.146,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-28T07:55:57,bob,81.49.196.41,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-01-28T08:08:39,edgar,127.207.47.227,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-28T08:25:08,bob,62.120.32.69,Philadelphia,US,39.9526,-75.1652,Android,1,1,admin,1
+2026-01-28T08:38:35,hari,160.109.20.141,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-01-28T08:52:02,hari,214.56.246.35,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-28T09:46:40,edgar,155.240.202.253,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-28T12:47:34,alice,246.167.11.194,London,GB,51.5074,-0.1278,Win10-Laptop,1,0,employee,0
+2026-01-28T13:28:15,bob,222.158.108.64,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,admin,1
+2026-01-28T13:31:32,bob,24.242.101.130,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-28T14:05:27,frida,199.124.194.111,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-01-28T14:53:17,dana,68.188.227.161,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-28T17:29:28,dana,45.166.156.21,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-01-28T17:44:07,geeta,225.111.54.157,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-28T17:53:32,geeta,18.77.23.102,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-28T19:45:18,edgar,148.160.91.238,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-28T20:03:27,charlie,218.81.238.206,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-28T21:01:15,alice,33.122.172.30,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-01-28T22:47:41,dana,188.85.225.123,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-29T02:46:23,bob,146.144.50.93,Philadelphia,US,39.9526,-75.1652,Android,1,1,admin,1
+2026-01-29T03:04:46,dana,209.149.149.104,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,analyst,0
+2026-01-29T03:27:44,hari,69.163.179.166,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-01-29T03:49:37,dana,229.139.121.168,New York,US,40.7128,-74.006,Android,0,1,analyst,0
+2026-01-29T04:02:12,frida,12.17.78.171,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-29T04:28:17,geeta,118.246.154.85,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-29T06:07:47,edgar,106.12.86.90,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-29T06:45:07,alice,149.7.238.80,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-29T08:16:16,hari,22.242.66.174,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-29T08:19:19,edgar,176.86.88.102,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-01-29T08:32:51,geeta,67.251.193.182,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-29T10:05:10,charlie,155.11.56.214,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-29T11:08:49,charlie,116.120.81.105,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-29T12:00:48,frida,231.52.48.172,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-29T13:35:51,edgar,73.66.203.18,New York,US,40.7128,-74.006,MacBook,0,1,employee,0
+2026-01-29T14:09:20,hari,155.64.20.70,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,0,engineer,0
+2026-01-29T14:36:13,alice,156.156.247.192,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-29T15:39:14,edgar,7.120.161.204,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-01-29T16:07:34,charlie,119.68.219.31,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-29T16:22:01,frida,42.219.129.200,San Jose,US,37.3382,-121.8863,iPhone,1,1,employee,0
+2026-01-29T17:29:15,bob,127.153.226.216,Philadelphia,US,39.9526,-75.1652,Android,1,0,admin,1
+2026-01-29T17:53:40,alice,176.154.207.31,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-29T18:25:44,charlie,60.20.242.52,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-29T18:41:43,bob,111.35.226.68,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,admin,1
+2026-01-29T19:12:45,hari,155.42.108.211,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-01-29T19:36:43,alice,51.20.152.177,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-29T19:46:39,frida,149.196.4.136,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-01-29T19:49:09,dana,188.220.75.35,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-30T07:46:36,edgar,85.214.87.237,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-01-30T07:50:56,geeta,214.209.172.114,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-01-30T08:01:58,geeta,122.2.231.3,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,employee,0
+2026-01-30T09:17:09,hari,97.251.249.57,San Jose,US,37.3382,-121.8863,MacBook,1,0,engineer,0
+2026-01-30T10:19:16,charlie,219.116.143.192,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-01-30T10:28:43,frida,98.109.55.132,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-30T10:54:20,charlie,102.132.13.174,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-30T12:06:59,frida,94.179.151.48,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-30T13:29:32,dana,170.62.218.247,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-30T13:43:11,geeta,196.101.138.21,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-30T13:50:36,alice,95.18.130.166,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-30T14:07:08,bob,87.143.241.94,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-01-30T15:21:00,alice,246.93.163.229,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-30T16:43:30,edgar,124.40.161.118,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-30T18:13:45,frida,138.2.250.186,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-30T18:35:18,bob,254.160.175.157,Frankfurt,DE,50.1109,8.6821,iPhone,1,1,admin,1
+2026-01-30T18:36:42,dana,241.92.11.57,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-01-30T18:53:29,alice,248.167.70.158,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-01-30T19:07:34,hari,93.233.86.200,Bengaluru,IN,12.9716,77.5946,Win11-Work,1,1,engineer,0
+2026-01-30T19:24:06,hari,225.79.151.211,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-01-30T20:51:39,dana,41.46.145.243,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-01-30T23:57:55,edgar,106.238.191.15,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-31T00:36:11,dana,230.214.20.133,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-01-31 02:00:00,bob,12.10.36.183,Philadelphia,US,39.9526,-75.1652,iPhone,0,1,admin,1
+2026-01-31T08:37:16,charlie,51.232.166.114,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-01-31T09:38:47,frida,142.105.75.253,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-31T12:06:45,dana,190.68.149.140,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-31T12:14:47,geeta,50.24.209.158,San Jose,US,37.3382,-121.8863,MacBook,1,1,employee,0
+2026-01-31T12:49:51,geeta,240.50.114.3,Philadelphia,US,39.9526,-75.1652,Win11-Work,0,1,employee,0
+2026-01-31T13:01:21,edgar,147.156.100.48,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-01-31T14:21:51,bob,132.36.84.239,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-01-31T14:51:58,alice,188.152.69.83,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-01-31T14:54:27,frida,122.241.174.95,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-01-31 02:00:00,bob,77.152.87.130,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,admin,1
+2026-01-31T15:43:07,geeta,92.100.46.215,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-01-31T15:50:23,dana,11.252.167.83,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-01-31T16:14:26,frida,35.127.196.93,London,GB,51.5074,-0.1278,Android,1,1,employee,0
+2026-01-31T17:35:15,charlie,4.16.213.200,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-01-31T17:45:18,frida,30.99.73.117,New York,US,40.7128,-74.006,iPhone,0,1,employee,0
+2026-01-31T19:39:42,alice,47.125.55.91,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-01-31T19:43:21,edgar,249.39.72.216,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-31T19:51:31,hari,142.70.156.26,London,GB,51.5074,-0.1278,Android,1,1,engineer,0
+2026-01-31T19:53:33,edgar,138.5.54.148,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-01-31T19:57:03,hari,89.207.190.174,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-01-31T20:54:15,alice,63.193.119.146,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-01-31T21:14:08,charlie,241.166.22.150,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-01-31T21:48:31,dana,172.53.133.233,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-01T00:05:07,frida,27.190.237.229,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-01T01:07:55,geeta,50.169.190.145,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-01T01:12:05,alice,62.177.122.166,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-01T03:40:19,geeta,248.93.10.72,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-01T06:01:38,bob,199.149.148.59,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,admin,1
+2026-02-01T06:31:57,geeta,252.211.164.102,Philadelphia,US,39.9526,-75.1652,iPhone,1,0,employee,0
+2026-02-01T07:30:57,edgar,188.224.135.80,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-01T09:16:24,dana,210.223.89.125,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-01T10:49:20,edgar,241.133.174.34,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-01T10:50:30,dana,113.43.59.20,New York,US,40.7128,-74.006,MacBook,0,1,analyst,0
+2026-02-01T10:50:34,hari,152.33.67.3,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-01T10:53:32,bob,209.5.95.85,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-01T10:58:46,hari,174.156.108.181,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-01T13:26:05,edgar,244.78.56.135,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-01T13:51:08,charlie,13.44.237.147,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,analyst,0
+2026-02-01T15:32:41,dana,155.184.210.31,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-01T16:11:00,frida,113.134.169.174,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-01T16:43:07,bob,186.224.177.162,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-01T16:51:16,alice,71.143.3.133,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-01T18:43:32,hari,146.189.69.14,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-01T19:19:11,edgar,114.130.7.205,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-01T20:38:07,edgar,81.182.9.70,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-01T22:27:52,charlie,110.45.91.55,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-02-02T06:46:03,bob,159.199.216.98,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-02T06:58:11,charlie,158.159.158.63,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-02T07:29:11,hari,74.71.244.110,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-02T07:37:10,dana,33.147.152.42,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-02-02T07:42:14,dana,173.123.123.54,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-02-02T08:41:18,charlie,23.72.99.36,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-02T09:33:45,hari,220.23.243.79,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-02T09:34:48,alice,71.186.151.251,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-02T09:42:37,alice,191.141.85.91,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-02T10:09:52,bob,29.49.5.113,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,admin,1
+2026-02-02T10:43:54,edgar,12.27.134.197,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-02T11:08:40,dana,43.67.237.47,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-02T11:48:50,frida,171.155.244.104,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-02T15:01:44,geeta,227.117.1.241,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-02T15:20:26,bob,199.157.236.121,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-02T16:10:04,frida,217.254.104.32,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-02T16:13:46,edgar,2.80.239.12,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,employee,0
+2026-02-02T16:44:29,alice,50.81.31.191,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-02T17:14:53,frida,197.149.152.70,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-02T19:26:12,charlie,206.140.204.5,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-02T19:26:49,hari,187.62.242.24,San Jose,US,37.3382,-121.8863,MacBook,1,0,engineer,0
+2026-02-02T19:45:31,alice,104.178.63.79,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-02-02T20:43:43,geeta,191.17.33.67,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-02T21:59:36,geeta,71.50.218.174,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-03 02:00:00,bob,77.198.74.181,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,admin,1
+2026-02-03T05:42:47,edgar,229.54.83.52,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-03T08:14:03,geeta,2.101.50.86,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-03T08:27:44,hari,170.244.236.211,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-03T08:33:25,dana,185.187.170.211,New York,US,40.7128,-74.006,Win10-Laptop,1,0,analyst,0
+2026-02-03T09:19:00,alice,14.142.75.179,Philadelphia,US,39.9526,-75.1652,Android,1,0,employee,0
+2026-02-03T09:26:38,dana,160.169.131.68,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-03T10:55:54,bob,54.144.84.170,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-03T11:40:08,frida,7.249.46.98,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-03T11:43:49,bob,68.157.124.50,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-03T11:48:33,alice,76.59.93.46,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-03T12:10:36,hari,224.3.247.243,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-02-03T13:20:24,charlie,8.230.208.200,Chicago,US,41.8781,-87.6298,MacBook,0,1,analyst,0
+2026-02-03T14:12:18,edgar,31.70.39.41,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-03T14:17:07,geeta,195.12.227.185,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-03T14:18:05,dana,124.44.57.213,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-03T14:24:50,charlie,89.234.145.129,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-03T14:38:43,frida,195.20.170.193,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-03T15:13:44,bob,240.240.204.185,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-03T15:17:07,edgar,82.70.37.242,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-03T16:17:03,charlie,150.60.250.41,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-03T16:27:41,geeta,83.111.217.105,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-03T16:27:43,hari,132.176.174.228,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-03T16:30:33,bob,137.88.140.91,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,admin,1
+2026-02-03T21:08:40,alice,147.73.121.123,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-03T21:31:32,frida,65.126.128.60,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-03T21:34:44,hari,213.191.2.183,San Jose,US,37.3382,-121.8863,MacBook,0,1,engineer,0
+2026-02-04T03:44:22,charlie,49.215.253.208,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-04T06:56:58,frida,118.10.9.46,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,1,employee,0
+2026-02-04T08:08:06,dana,46.122.231.158,Bengaluru,IN,12.9716,77.5946,MacBook,1,1,analyst,0
+2026-02-04T08:17:18,bob,251.102.210.89,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,admin,1
+2026-02-04T08:56:33,hari,44.173.239.226,San Jose,US,37.3382,-121.8863,Win10-Laptop,0,1,engineer,0
+2026-02-04T09:05:56,geeta,251.177.109.246,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,employee,0
+2026-02-04T09:11:15,charlie,234.152.8.181,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-04T09:28:21,alice,123.30.211.17,Philadelphia,US,39.9526,-75.1652,Android,0,1,employee,0
+2026-02-04T10:06:15,charlie,235.189.15.196,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-02-04T10:28:03,edgar,28.99.14.23,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-04T11:04:58,geeta,161.161.25.8,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-04T12:03:27,hari,87.234.174.64,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-02-04T13:14:36,charlie,215.254.217.45,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-02-04T13:34:21,frida,196.9.254.111,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-02-04T14:48:33,hari,35.132.91.244,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-02-04T15:33:49,frida,128.126.130.67,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-04T16:27:25,edgar,215.177.180.115,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-04T17:38:02,dana,24.124.169.34,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-04T18:10:46,dana,18.59.97.99,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-04T18:25:31,alice,243.78.22.64,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-04T18:45:51,edgar,157.229.87.139,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-02-04T18:49:51,bob,21.89.237.114,Philadelphia,US,39.9526,-75.1652,Android,0,1,admin,1
+2026-02-05T03:00:47,hari,238.239.246.165,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-05T05:04:49,geeta,115.149.32.22,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-02-05T06:06:29,edgar,121.60.243.58,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-05T06:49:24,dana,215.179.148.26,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-05T07:07:35,alice,58.199.134.98,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-05T08:35:59,bob,122.123.167.52,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-05T08:45:24,frida,169.142.176.139,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-05T09:36:30,frida,101.68.127.152,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-05T10:06:30,geeta,86.134.204.61,Philadelphia,US,39.9526,-75.1652,Android,1,0,employee,0
+2026-02-05T10:57:38,dana,174.167.111.134,New York,US,40.7128,-74.006,Android,0,1,analyst,0
+2026-02-05T11:26:23,dana,241.206.124.203,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-05T11:59:48,edgar,206.236.179.120,New York,US,40.7128,-74.006,Win11-Work,1,0,employee,0
+2026-02-05T12:39:22,edgar,172.208.137.21,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-05T12:56:31,charlie,15.60.155.57,Chicago,US,41.8781,-87.6298,iPhone,1,0,analyst,0
+2026-02-05T13:03:06,bob,198.36.2.247,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-05T13:24:39,frida,16.8.152.12,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-05T13:30:27,geeta,86.216.65.64,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-05T14:41:16,bob,70.239.144.179,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-05T15:28:58,alice,79.146.159.16,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-05T16:39:47,alice,21.41.62.45,Dallas,US,32.7767,-96.797,MacBook,1,1,employee,0
+2026-02-05T17:53:34,hari,124.76.68.55,San Jose,US,37.3382,-121.8863,Win11-Work,1,1,engineer,0
+2026-02-05T18:35:42,frida,126.111.35.80,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-05T20:11:58,charlie,38.151.181.235,Chicago,US,41.8781,-87.6298,Win11-Work,1,0,analyst,0
+2026-02-05T20:17:08,bob,136.58.164.60,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,admin,1
+2026-02-05T21:01:33,charlie,207.34.88.184,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-06T01:24:29,geeta,87.167.241.173,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-06T02:00:39,hari,90.228.185.48,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-06T02:35:04,alice,121.75.9.60,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-06T03:09:55,edgar,47.180.235.171,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-06T07:27:08,dana,22.73.154.225,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-06T08:22:14,charlie,188.177.76.33,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-06T08:24:25,geeta,169.160.3.117,Bengaluru,IN,12.9716,77.5946,MacBook,1,1,employee,0
+2026-02-06T09:21:50,edgar,17.122.29.90,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-06T09:48:18,bob,23.167.147.60,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-06T11:09:49,charlie,242.170.102.151,London,GB,51.5074,-0.1278,Android,1,1,analyst,0
+2026-02-06T11:30:29,edgar,148.33.131.27,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-02-06T11:34:47,bob,45.107.226.215,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-06T12:08:53,frida,196.229.161.88,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-06T13:18:45,alice,60.237.68.202,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-02-06T13:31:41,charlie,228.238.158.202,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-02-06T13:32:52,hari,218.125.15.92,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-06T14:27:41,dana,145.94.157.71,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-06T15:06:21,charlie,243.112.203.164,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-02-06T15:24:06,frida,15.170.63.64,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-02-06T15:33:00,dana,105.93.28.40,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-06T15:34:26,dana,2.148.134.31,New York,US,40.7128,-74.006,MacBook,0,1,analyst,0
+2026-02-06T16:25:22,hari,132.231.40.106,Bengaluru,IN,12.9716,77.5946,MacBook,1,0,engineer,0
+2026-02-06T16:50:40,alice,30.140.58.166,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-06T18:03:58,geeta,201.33.16.236,London,GB,51.5074,-0.1278,MacBook,1,1,employee,0
+2026-02-06T20:51:28,geeta,144.14.76.218,Bengaluru,IN,12.9716,77.5946,iPhone,1,1,employee,0
+2026-02-06T21:43:25,dana,124.46.95.144,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-07T04:38:16,alice,148.151.244.6,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,employee,0
+2026-02-07T06:54:55,dana,180.244.42.26,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-07T08:15:41,frida,223.79.30.87,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-07T08:19:37,geeta,80.150.227.139,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-07T09:07:58,hari,58.121.102.96,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-07T09:11:59,bob,127.48.240.192,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-07T09:20:58,charlie,27.240.128.37,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-07T09:25:52,edgar,19.203.78.137,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-07T11:10:01,frida,109.146.132.231,New York,US,40.7128,-74.006,MacBook,0,1,employee,0
+2026-02-07T11:32:29,bob,188.118.166.66,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-07T12:09:58,alice,203.79.153.192,Philadelphia,US,39.9526,-75.1652,Android,1,0,employee,0
+2026-02-07T12:11:46,charlie,146.9.47.155,Bengaluru,IN,12.9716,77.5946,Android,1,1,analyst,0
+2026-02-07T13:19:23,hari,28.254.113.169,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-07T13:52:36,alice,78.180.104.242,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-07T14:26:30,geeta,205.12.16.33,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-07T14:29:25,edgar,41.250.124.99,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-07T15:17:32,alice,228.111.189.83,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-07T16:53:28,hari,92.227.223.182,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-07T17:26:17,frida,97.147.100.83,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,1,employee,0
+2026-02-07T17:55:59,bob,155.28.238.252,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,admin,1
+2026-02-07T19:21:18,bob,228.241.35.218,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-07T19:35:30,dana,181.102.189.36,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-07T22:04:37,geeta,164.131.66.91,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-07T22:50:01,geeta,27.4.153.183,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-08T01:04:21,edgar,251.112.146.202,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-08T04:11:08,bob,99.61.115.193,Philadelphia,US,39.9526,-75.1652,iPhone,1,0,admin,1
+2026-02-08T05:32:46,hari,29.246.28.203,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-08T07:31:18,alice,10.117.23.81,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-08T08:54:40,bob,23.103.172.25,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-08T09:10:24,dana,38.121.238.154,New York,US,40.7128,-74.006,MacBook,0,0,analyst,0
+2026-02-08T10:21:34,edgar,190.239.183.147,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-08T10:27:05,dana,186.99.239.253,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,analyst,0
+2026-02-08T10:48:42,frida,112.52.128.163,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-08T11:04:22,charlie,99.113.188.108,Chicago,US,41.8781,-87.6298,MacBook,1,0,analyst,0
+2026-02-08T11:12:07,hari,191.85.231.9,San Jose,US,37.3382,-121.8863,Win10-Laptop,0,1,engineer,0
+2026-02-08T11:48:43,alice,45.121.133.167,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-08T12:45:11,bob,194.50.45.157,London,GB,51.5074,-0.1278,MacBook,1,1,admin,1
+2026-02-08T12:45:42,charlie,68.54.64.178,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-08T13:30:22,alice,42.85.106.178,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-08T13:35:31,hari,196.200.226.103,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-08T14:17:21,bob,168.93.178.61,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,admin,1
+2026-02-08T14:37:42,geeta,214.144.220.14,Philadelphia,US,39.9526,-75.1652,iPhone,0,1,employee,0
+2026-02-08T14:49:09,geeta,95.249.3.133,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-08T15:10:42,hari,69.31.108.126,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-02-08T16:13:32,dana,179.176.181.14,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-02-08T16:53:31,edgar,114.46.79.245,Frankfurt,DE,50.1109,8.6821,Win10-Laptop,1,0,employee,0
+2026-02-08T19:36:06,frida,87.128.129.208,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-08T22:21:47,charlie,227.247.23.211,London,GB,51.5074,-0.1278,MacBook,1,1,analyst,0
+2026-02-08T23:28:58,alice,209.126.249.24,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-09T00:10:56,charlie,97.26.213.123,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-09T00:39:47,frida,152.87.70.18,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-09T03:16:20,alice,1.169.223.139,Bengaluru,IN,12.9716,77.5946,iPhone,1,1,employee,0
+2026-02-09T04:21:27,hari,75.73.125.22,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-09T04:49:19,bob,95.158.57.57,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-09T05:29:26,alice,114.195.14.53,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,employee,0
+2026-02-09T07:25:04,edgar,210.98.84.127,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-09T07:48:27,hari,64.72.197.30,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-09T09:27:22,geeta,202.18.88.49,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-09T11:41:42,edgar,232.194.163.208,Dallas,US,32.7767,-96.797,MacBook,1,1,employee,0
+2026-02-09T11:50:55,charlie,116.19.205.217,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-09T11:54:50,frida,147.103.206.58,Dallas,US,32.7767,-96.797,iPhone,1,1,employee,0
+2026-02-09T12:08:30,bob,107.180.141.234,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-09T12:32:51,frida,107.103.65.160,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-02-09T13:25:39,dana,15.243.199.210,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-09T17:11:40,dana,239.206.133.74,New York,US,40.7128,-74.006,iPhone,0,1,analyst,0
+2026-02-09T18:03:42,bob,237.230.228.181,San Jose,US,37.3382,-121.8863,MacBook,1,1,admin,1
+2026-02-09T18:36:51,frida,20.167.211.78,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-09T21:01:08,hari,61.14.174.213,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-09T21:42:30,geeta,85.219.149.145,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-09T22:21:39,geeta,225.203.234.11,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-10T01:12:26,charlie,68.170.73.77,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-10T01:55:16,hari,51.122.181.201,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-10T03:11:36,frida,241.120.69.240,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-10T06:12:40,geeta,8.51.51.73,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,employee,0
+2026-02-10T08:01:39,hari,135.79.180.163,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-10T08:23:15,dana,71.200.103.91,New York,US,40.7128,-74.006,Win10-Laptop,1,0,analyst,0
+2026-02-10T08:31:14,geeta,120.160.55.62,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-10T09:40:38,alice,4.142.105.24,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-10T10:46:04,charlie,153.253.158.229,Chicago,US,41.8781,-87.6298,Android,1,0,analyst,0
+2026-02-10T11:00:48,edgar,100.158.148.115,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-10T11:32:29,frida,161.181.133.221,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-10T12:30:45,charlie,14.26.85.53,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-10T12:35:18,dana,89.247.209.71,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-10T12:40:34,frida,240.145.187.161,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-10T13:12:13,edgar,234.174.78.236,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-10T13:52:00,geeta,30.37.75.113,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,employee,0
+2026-02-10T14:12:02,dana,158.44.173.10,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-10T14:51:06,hari,219.152.162.163,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-10T15:42:25,dana,181.18.236.24,New York,US,40.7128,-74.006,Android,1,0,analyst,0
+2026-02-10T16:09:14,hari,50.238.38.110,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-10T16:30:47,geeta,97.53.103.48,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-10T17:55:50,bob,235.145.29.16,Frankfurt,DE,50.1109,8.6821,MacBook,1,1,admin,1
+2026-02-10T18:02:18,charlie,44.228.97.42,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,0,analyst,0
+2026-02-10T18:17:35,alice,125.32.8.250,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-10T18:30:48,bob,64.175.194.153,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-11T00:50:56,geeta,208.96.170.44,Dallas,US,32.7767,-96.797,Android,1,1,employee,0
+2026-02-11T04:28:07,bob,231.131.115.208,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-11T06:14:14,hari,165.14.78.29,San Jose,US,37.3382,-121.8863,Win11-Work,1,1,engineer,0
+2026-02-11T07:33:51,geeta,17.31.37.226,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-11T08:11:14,geeta,142.63.46.51,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-11T09:32:25,edgar,231.141.248.14,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-02-11T10:01:11,geeta,174.36.98.168,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-02-11T10:14:38,dana,2.67.45.105,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-11T10:42:40,charlie,44.164.75.251,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,0,analyst,0
+2026-02-11T10:59:27,edgar,150.3.157.253,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-11T11:19:46,bob,149.19.12.109,San Jose,US,37.3382,-121.8863,Android,1,1,admin,1
+2026-02-11T11:35:09,alice,226.35.222.18,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-11T12:02:00,hari,233.156.26.111,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,engineer,0
+2026-02-11T12:17:49,alice,130.69.211.1,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-11T15:03:33,frida,192.176.196.77,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-11T16:00:45,edgar,73.222.8.61,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-02-11T16:03:29,bob,144.119.173.207,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-11T16:17:23,hari,82.230.13.47,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-11T16:53:35,bob,43.84.219.134,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-11T17:14:53,alice,214.40.128.239,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-11T17:15:06,charlie,110.23.76.211,Frankfurt,DE,50.1109,8.6821,MacBook,1,1,analyst,0
+2026-02-11T17:16:56,dana,114.248.97.145,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-02-11T17:54:27,frida,163.53.217.106,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-11T18:27:44,edgar,104.98.112.140,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-11T19:32:06,dana,30.206.132.245,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-11T20:45:18,alice,251.121.63.117,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-12T00:05:41,charlie,95.48.115.12,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-12T01:26:09,edgar,3.19.166.5,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-12T02:40:15,geeta,219.138.76.203,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-12T04:26:11,bob,166.247.108.96,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-12T05:30:49,dana,175.118.230.151,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-12T05:35:49,hari,93.191.200.151,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-12T07:30:45,alice,203.211.167.252,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-12T08:14:51,dana,3.180.214.68,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-12T08:59:08,geeta,96.82.154.110,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-12T09:22:44,bob,240.121.9.74,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,admin,1
+2026-02-12T12:05:30,charlie,126.230.170.68,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-02-12T12:13:42,edgar,216.237.93.216,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-12T12:16:28,charlie,16.39.193.179,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-12T12:17:52,frida,61.104.62.30,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-12T12:33:38,hari,99.23.228.28,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-12T14:09:20,geeta,33.218.131.248,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-12T14:11:16,hari,25.172.4.175,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-12T15:18:46,alice,126.222.39.115,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-12T16:02:12,frida,206.72.169.141,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-12T18:09:12,frida,112.109.166.232,San Jose,US,37.3382,-121.8863,Android,1,1,employee,0
+2026-02-12T18:34:30,alice,117.239.83.223,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-12T19:55:01,dana,202.57.174.180,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-12T20:09:46,edgar,35.22.36.165,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-12T20:12:44,alice,106.12.82.191,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-12T22:15:18,dana,122.81.91.56,London,GB,51.5074,-0.1278,Android,1,1,analyst,0
+2026-02-13T02:57:36,dana,233.49.128.189,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-13T05:12:12,hari,140.159.88.78,San Jose,US,37.3382,-121.8863,MacBook,1,0,engineer,0
+2026-02-13T07:09:31,alice,85.223.26.224,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-13T07:57:24,bob,21.175.247.170,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-13T08:39:22,dana,174.245.170.127,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-13T09:29:32,edgar,58.48.109.155,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-13T10:10:32,geeta,96.128.133.119,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-13T11:08:40,hari,234.227.168.210,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-13T11:35:45,hari,233.144.250.89,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-13T12:54:28,alice,223.168.249.40,Frankfurt,DE,50.1109,8.6821,Android,0,1,employee,0
+2026-02-13T13:00:36,edgar,69.106.238.140,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-13T13:36:56,charlie,219.183.9.129,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-13T13:51:26,edgar,239.109.160.47,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-13T14:03:53,charlie,176.222.240.122,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-13T14:37:56,geeta,203.170.158.17,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-13T16:04:30,alice,102.167.21.219,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-13T16:05:20,frida,105.230.94.172,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-13T16:42:06,charlie,194.151.59.142,London,GB,51.5074,-0.1278,iPhone,1,1,analyst,0
+2026-02-13T17:55:34,bob,138.101.136.33,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-13T19:11:41,frida,6.15.221.230,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-13T19:46:30,hari,12.33.50.108,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-13T23:12:15,dana,52.214.64.215,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-14T02:11:20,geeta,245.127.122.69,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-14T03:28:11,charlie,50.33.11.109,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-14T05:42:56,frida,129.239.31.134,Chicago,US,41.8781,-87.6298,MacBook,1,1,employee,0
+2026-02-14T07:37:25,geeta,54.57.230.52,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-14T09:28:55,geeta,97.147.41.240,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-14T10:31:55,alice,176.236.74.59,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-14T10:36:23,edgar,29.149.124.247,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-14T10:38:07,frida,189.100.207.192,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-14T10:42:53,frida,128.227.24.61,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-14T11:36:57,charlie,38.31.244.194,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-02-14T11:46:14,bob,119.173.185.140,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-14T12:21:54,alice,161.184.228.195,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-14T12:44:05,edgar,252.193.200.72,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-14T13:59:32,hari,248.34.75.12,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-14T14:31:57,dana,126.47.253.196,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-14T15:36:03,hari,102.127.176.137,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-14T15:39:00,dana,124.96.159.81,New York,US,40.7128,-74.006,MacBook,1,0,analyst,0
+2026-02-14T15:56:46,bob,158.197.240.227,Philadelphia,US,39.9526,-75.1652,iPhone,0,1,admin,1
+2026-02-14T16:27:34,bob,40.71.49.240,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-14T23:57:23,hari,18.124.108.135,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-15T02:55:03,bob,139.56.194.222,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,admin,1
+2026-02-15T04:17:33,charlie,160.151.134.201,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-15T07:47:15,frida,55.249.71.113,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-15T08:43:40,edgar,232.88.137.200,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-15T08:58:32,dana,14.135.205.109,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-15T10:05:43,charlie,214.153.67.82,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-15T10:44:33,dana,54.98.149.26,New York,US,40.7128,-74.006,Win10-Laptop,1,0,analyst,0
+2026-02-15T10:53:23,geeta,76.114.133.91,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-15T11:26:16,frida,180.243.29.82,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-02-15T11:30:34,dana,45.118.250.31,London,GB,51.5074,-0.1278,Win11-Work,1,1,analyst,0
+2026-02-15T11:44:19,alice,76.92.96.111,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-02-15T11:55:32,hari,99.144.200.100,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-15T12:26:07,charlie,195.247.241.26,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-15T13:34:27,frida,201.240.38.93,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-15T15:09:15,alice,44.45.21.157,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-15T15:14:37,geeta,105.95.206.128,London,GB,51.5074,-0.1278,MacBook,1,1,employee,0
+2026-02-15T15:56:01,bob,115.154.173.181,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-15T16:47:05,alice,224.26.114.43,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-15T17:00:30,edgar,85.108.91.246,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-15T17:58:46,charlie,102.142.84.220,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-02-15T18:49:03,bob,235.188.148.82,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-15T21:20:17,geeta,166.20.92.231,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-15T21:29:33,edgar,170.246.172.20,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-16T04:24:50,bob,77.97.48.194,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-16T05:24:19,frida,176.32.137.222,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-16T05:54:25,dana,148.176.59.209,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-16T09:02:40,hari,70.224.203.14,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-16T09:05:18,geeta,202.71.238.59,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-16T09:59:06,charlie,138.226.89.225,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-16T10:26:16,charlie,10.45.71.104,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-02-16T10:55:24,alice,37.60.119.164,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-16T12:51:18,edgar,192.78.187.201,New York,US,40.7128,-74.006,Win11-Work,0,1,employee,0
+2026-02-16T13:30:45,frida,232.156.9.216,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-16T13:33:14,bob,152.226.189.234,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-16T15:10:04,alice,164.247.109.177,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-16T15:56:59,hari,135.67.78.219,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-16T16:06:46,dana,98.51.38.205,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-16T16:16:29,alice,231.74.174.140,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-02-16T16:25:38,hari,56.152.179.3,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-16T17:36:16,edgar,169.254.75.208,Frankfurt,DE,50.1109,8.6821,iPhone,1,1,employee,0
+2026-02-16T18:11:40,bob,89.242.165.172,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,admin,1
+2026-02-16T18:14:18,hari,12.137.61.75,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-02-16T18:47:39,edgar,218.201.72.65,Frankfurt,DE,50.1109,8.6821,iPhone,1,1,employee,0
+2026-02-16T19:20:23,dana,61.69.121.246,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-16T19:47:42,frida,172.62.65.142,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-02-16T19:47:52,geeta,155.36.219.193,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-16T20:06:07,geeta,173.85.65.78,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-16T22:36:38,bob,225.37.253.170,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-16T22:39:21,dana,180.193.96.94,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-17T01:36:22,alice,251.213.169.102,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-17T02:25:25,geeta,168.132.254.195,Philadelphia,US,39.9526,-75.1652,Android,1,0,employee,0
+2026-02-17T02:41:15,hari,167.89.162.155,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-17T07:28:40,frida,203.9.71.222,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-17T08:47:09,dana,35.229.218.162,New York,US,40.7128,-74.006,MacBook,0,1,analyst,0
+2026-02-17T09:15:54,frida,238.251.235.66,New York,US,40.7128,-74.006,iPhone,0,1,employee,0
+2026-02-17T09:16:29,alice,124.28.61.98,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-17T10:33:34,dana,144.220.146.13,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-17T10:34:30,bob,37.207.119.235,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-17T12:03:35,bob,100.63.66.53,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-17T13:15:03,charlie,6.87.210.204,Chicago,US,41.8781,-87.6298,Android,1,1,analyst,0
+2026-02-17T14:09:39,charlie,228.226.85.177,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,0,analyst,0
+2026-02-17T14:19:05,frida,221.228.42.235,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-17T14:31:11,edgar,22.248.38.153,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-17T15:09:55,geeta,122.60.133.151,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-17T16:37:47,edgar,67.201.180.61,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-17T18:01:34,hari,150.28.185.191,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-17T18:08:39,edgar,29.155.45.233,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-02-17T18:23:20,hari,157.76.84.253,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-17T19:19:19,charlie,26.249.223.59,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-17T20:03:40,hari,248.72.46.66,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-17T21:05:52,frida,238.216.86.184,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-02-17T21:45:47,geeta,73.211.89.201,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-17T23:25:06,dana,122.215.162.25,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-18T03:53:22,geeta,104.196.200.177,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-18T06:41:34,dana,173.131.125.199,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-18T07:41:05,charlie,190.125.195.133,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-18T08:44:24,hari,155.142.53.210,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-18T09:28:46,edgar,89.14.165.68,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-18T09:55:23,charlie,80.182.130.104,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-18T10:26:38,frida,178.8.196.14,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-18T11:46:42,bob,86.78.245.233,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-18T11:50:35,geeta,203.22.81.217,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-18T12:59:52,edgar,198.99.61.170,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-18T15:08:19,charlie,69.187.107.155,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-18T15:12:27,geeta,116.219.143.8,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-18T15:23:08,geeta,3.128.208.169,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-18T15:48:52,edgar,122.192.243.193,Chicago,US,41.8781,-87.6298,iPhone,1,1,employee,0
+2026-02-18T16:17:00,alice,13.234.156.191,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-18T17:17:24,bob,49.206.195.151,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-18T17:41:41,frida,1.103.52.161,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-18T18:21:41,bob,186.213.49.14,Frankfurt,DE,50.1109,8.6821,MacBook,1,0,admin,1
+2026-02-18T18:28:14,hari,220.193.102.40,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-18T18:28:47,dana,239.208.66.89,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-18T18:40:12,alice,169.175.215.36,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-18T19:01:26,dana,51.148.148.167,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-02-18T19:19:20,frida,183.249.197.213,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-18T19:31:53,alice,156.206.91.57,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-18T21:27:56,frida,67.130.17.91,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-19T02:21:36,geeta,222.101.251.98,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-19T03:04:05,dana,75.182.69.155,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-19T07:56:23,alice,66.234.212.242,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-19T08:27:00,edgar,81.247.136.175,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-02-19T08:44:38,bob,83.199.73.98,Philadelphia,US,39.9526,-75.1652,Android,1,1,admin,1
+2026-02-19T10:00:13,bob,194.123.235.63,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-19T10:08:49,charlie,50.225.214.52,Chicago,US,41.8781,-87.6298,iPhone,1,0,analyst,0
+2026-02-19T10:29:11,hari,242.187.47.166,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-19T10:59:34,edgar,68.38.136.223,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-19T12:55:47,frida,84.205.73.51,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-19T15:41:48,frida,241.82.116.123,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-19T15:53:03,charlie,181.51.71.95,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-02-19T16:02:06,edgar,111.157.236.167,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-19T16:34:19,geeta,237.36.40.251,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-02-19T16:47:28,dana,162.245.38.223,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-19T16:52:29,charlie,8.62.96.126,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-02-19T18:10:40,dana,147.104.218.233,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-02-19T18:28:14,hari,123.24.127.47,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-19T18:29:34,bob,226.128.120.26,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-19T18:46:08,alice,52.34.202.139,San Jose,US,37.3382,-121.8863,iPhone,1,1,employee,0
+2026-02-19T19:54:17,edgar,168.150.101.119,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-02-19T21:40:06,alice,113.9.149.94,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-20T02:09:04,hari,104.26.186.135,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-20T03:26:18,bob,214.63.128.141,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-20T08:01:11,geeta,53.60.75.169,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-20T08:18:01,hari,176.156.49.18,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-20T08:36:55,bob,240.150.149.185,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-20T08:51:46,bob,95.81.106.12,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-20T09:41:25,dana,93.192.151.134,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-20T09:41:43,bob,186.165.190.126,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-20T11:13:25,geeta,146.247.116.164,Bengaluru,IN,12.9716,77.5946,iPhone,1,1,employee,0
+2026-02-20T11:38:28,charlie,90.89.42.215,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-20T11:48:14,alice,248.217.206.143,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,1,employee,0
+2026-02-20T12:08:46,hari,99.6.29.212,San Jose,US,37.3382,-121.8863,Android,0,0,engineer,0
+2026-02-20T13:33:06,edgar,65.50.9.7,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
+2026-02-20T14:12:16,frida,110.154.67.39,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-20T14:30:51,alice,120.247.20.37,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-20T15:01:01,frida,233.23.250.119,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-20T15:47:44,dana,25.17.240.225,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-20T16:49:43,edgar,50.134.87.174,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-20T17:05:26,frida,214.227.147.58,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-20T18:44:11,edgar,18.4.106.26,New York,US,40.7128,-74.006,MacBook,0,0,employee,0
+2026-02-20T19:57:16,charlie,99.13.42.219,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-20T19:57:19,geeta,212.177.155.126,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-20T23:28:26,dana,61.170.65.241,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-21T00:59:29,frida,53.49.243.221,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-21T01:00:48,hari,198.22.69.37,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-21T03:30:35,dana,27.68.159.40,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,analyst,0
+2026-02-21T04:43:16,alice,28.173.60.121,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-21T05:57:55,geeta,210.182.171.122,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-21T08:33:04,geeta,84.221.233.106,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-02-21T08:36:49,charlie,174.53.69.167,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-21T08:39:05,edgar,182.246.31.23,Dallas,US,32.7767,-96.797,MacBook,1,1,employee,0
+2026-02-21T08:45:05,hari,114.209.42.79,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-21T08:55:30,dana,141.114.35.249,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-21T12:01:39,alice,57.166.17.163,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-21T12:05:23,frida,135.112.198.236,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-02-21T12:52:29,alice,36.12.243.10,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-21T13:25:10,geeta,191.18.100.245,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-21T14:05:41,dana,189.73.114.161,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-21T14:08:08,dana,92.221.235.84,New York,US,40.7128,-74.006,Win11-Work,1,0,analyst,0
+2026-02-21T14:54:38,edgar,145.206.248.48,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-21T15:23:05,alice,117.95.173.192,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,employee,0
+2026-02-21T15:40:38,hari,189.210.87.219,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,engineer,0
+2026-02-21T15:57:24,charlie,78.174.134.212,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-21T16:52:42,bob,60.18.182.39,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-21T17:26:32,charlie,45.154.206.3,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,analyst,0
+2026-02-21T18:14:16,charlie,182.165.71.109,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-21T18:29:10,bob,140.126.48.235,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-21T18:56:34,bob,215.217.20.242,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-21T21:57:07,edgar,240.20.164.117,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-22T06:10:38,geeta,184.176.118.71,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-22T07:17:34,bob,173.111.207.241,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,admin,1
+2026-02-22T07:39:25,charlie,248.216.215.96,Chicago,US,41.8781,-87.6298,iPhone,0,1,analyst,0
+2026-02-22T08:17:40,charlie,244.229.167.77,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-22T10:18:16,frida,150.176.166.118,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-22T10:19:31,alice,117.95.172.244,Dallas,US,32.7767,-96.797,MacBook,1,1,employee,0
+2026-02-22T10:44:34,dana,163.225.145.112,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-22T11:14:01,hari,74.58.236.226,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-22T11:21:30,hari,161.140.32.6,San Jose,US,37.3382,-121.8863,MacBook,0,1,engineer,0
+2026-02-22T11:33:40,dana,139.59.207.23,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-22T11:49:04,edgar,16.67.245.209,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-22T11:59:17,edgar,198.83.66.42,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-22T12:21:58,geeta,11.189.24.74,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-22T12:47:44,alice,40.227.107.168,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-22T13:06:53,alice,9.177.95.56,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-22T13:52:50,frida,111.220.53.154,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-22T14:12:00,geeta,155.207.64.135,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-22T16:00:13,bob,171.240.158.234,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-22T16:35:41,charlie,124.17.87.254,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-22T19:28:19,dana,1.134.209.195,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-22T20:30:42,bob,4.5.136.185,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,admin,1
+2026-02-22T21:16:11,edgar,157.101.46.166,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-22T21:52:02,hari,107.37.1.234,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-22T23:13:52,frida,105.203.38.8,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-23T00:28:28,alice,176.95.140.231,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,employee,0
+2026-02-23T01:59:58,hari,136.86.154.47,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,engineer,0
+2026-02-23T02:42:13,alice,202.86.63.254,Philadelphia,US,39.9526,-75.1652,iPhone,1,0,employee,0
+2026-02-23T03:54:08,dana,237.126.243.194,New York,US,40.7128,-74.006,MacBook,1,0,analyst,0
+2026-02-23T06:46:45,charlie,233.241.172.92,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-23T07:31:09,edgar,100.69.39.180,New York,US,40.7128,-74.006,Win10-Laptop,0,0,employee,0
+2026-02-23T07:41:22,alice,218.211.117.24,San Jose,US,37.3382,-121.8863,iPhone,1,1,employee,0
+2026-02-23T08:58:11,bob,159.135.65.209,New York,US,40.7128,-74.006,Win10-Laptop,1,1,admin,1
+2026-02-23T09:52:51,geeta,159.188.111.118,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-23T09:59:15,frida,172.248.206.154,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-23T10:14:06,hari,86.31.93.237,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,0,engineer,0
+2026-02-23T10:24:45,frida,143.16.14.86,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-02-23T11:21:57,edgar,198.126.123.112,New York,US,40.7128,-74.006,iPhone,0,1,employee,0
+2026-02-23T11:25:42,charlie,128.76.67.233,Chicago,US,41.8781,-87.6298,MacBook,1,0,analyst,0
+2026-02-23T11:41:56,geeta,203.77.101.157,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-23T11:45:16,edgar,199.115.5.230,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-23T12:22:17,bob,118.145.63.254,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-23T13:30:19,dana,204.2.141.96,Bengaluru,IN,12.9716,77.5946,iPhone,1,1,analyst,0
+2026-02-23T14:31:06,edgar,165.28.234.114,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-23T17:12:26,dana,184.189.166.100,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-23T18:43:24,hari,126.44.254.29,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-02-23T20:12:09,charlie,220.206.208.154,Chicago,US,41.8781,-87.6298,MacBook,1,0,analyst,0
+2026-02-23T20:26:25,charlie,147.209.49.88,Chicago,US,41.8781,-87.6298,Win10-Laptop,0,1,analyst,0
+2026-02-23T23:05:00,frida,102.176.55.183,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-24T00:55:14,alice,1.71.220.252,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-24T04:42:23,frida,46.67.44.129,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-02-24T06:04:50,hari,38.100.115.185,Chicago,US,41.8781,-87.6298,MacBook,1,1,engineer,0
+2026-02-24T06:44:52,edgar,254.92.86.175,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-24T08:04:48,geeta,54.130.12.119,London,GB,51.5074,-0.1278,Android,1,1,employee,0
+2026-02-24T08:25:54,edgar,58.1.99.245,New York,US,40.7128,-74.006,Android,1,0,employee,0
+2026-02-24T09:56:55,geeta,171.235.18.179,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-24T10:48:49,edgar,248.99.170.49,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-24T10:57:33,bob,178.228.146.122,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-24T12:06:17,hari,208.233.183.205,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-24T13:08:50,alice,54.151.56.209,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-24T13:39:51,dana,137.208.69.106,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-24T13:46:46,geeta,196.142.32.95,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-24T14:44:14,bob,254.220.167.195,Philadelphia,US,39.9526,-75.1652,iPhone,1,0,admin,1
+2026-02-24T15:19:25,edgar,88.21.216.118,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-24T15:22:50,alice,68.14.33.190,Philadelphia,US,39.9526,-75.1652,Win11-Work,1,0,employee,0
+2026-02-24T16:53:24,dana,133.196.205.233,New York,US,40.7128,-74.006,Android,1,1,analyst,0
+2026-02-24T17:05:31,bob,251.220.250.25,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-24T17:09:08,alice,222.7.34.4,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-24T17:24:58,geeta,179.243.12.62,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,employee,0
+2026-02-24T18:02:05,bob,164.3.180.44,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-24T19:08:47,charlie,47.243.175.231,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-24T19:45:47,frida,98.78.251.102,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-02-24T20:32:19,charlie,47.76.25.121,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-24T20:43:27,hari,210.74.90.225,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-25T09:06:18,dana,60.24.39.4,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-25T09:12:54,dana,159.116.70.180,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-25T09:28:47,edgar,152.62.126.100,New York,US,40.7128,-74.006,Win10-Laptop,0,0,employee,0
+2026-02-25T09:37:39,charlie,98.136.77.106,Dallas,US,32.7767,-96.797,Android,1,1,analyst,0
+2026-02-25T10:04:50,edgar,214.208.116.248,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-25T10:11:59,bob,37.193.211.183,Philadelphia,US,39.9526,-75.1652,iPhone,0,1,admin,1
+2026-02-25T12:17:02,bob,140.145.169.9,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-25T12:21:41,charlie,108.202.228.85,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,analyst,0
+2026-02-25T12:31:13,dana,96.119.179.203,New York,US,40.7128,-74.006,iPhone,1,1,analyst,0
+2026-02-25T12:32:14,alice,222.169.134.78,Philadelphia,US,39.9526,-75.1652,Android,0,1,employee,0
+2026-02-25T13:10:10,geeta,32.137.190.101,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-25T13:12:25,geeta,84.172.192.119,San Jose,US,37.3382,-121.8863,MacBook,1,1,employee,0
+2026-02-25T13:19:44,edgar,125.22.227.162,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-25T13:23:59,frida,213.195.238.68,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-25T14:31:29,geeta,121.211.72.216,Dallas,US,32.7767,-96.797,Win10-Laptop,1,1,employee,0
+2026-02-25T14:39:31,dana,137.6.48.249,New York,US,40.7128,-74.006,Win11-Work,0,0,analyst,0
+2026-02-25T15:50:50,hari,110.246.187.72,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-25T18:16:07,frida,250.214.72.192,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-25T18:26:33,alice,132.152.28.116,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-25T18:52:25,bob,146.214.218.100,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-25T19:01:04,geeta,88.191.103.220,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-25T19:31:59,frida,182.136.111.37,New York,US,40.7128,-74.006,iPhone,1,0,employee,0
+2026-02-25T20:23:16,charlie,14.222.163.150,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-02-25T21:09:05,hari,91.82.127.109,San Jose,US,37.3382,-121.8863,Android,1,1,engineer,0
+2026-02-26T05:02:21,dana,19.140.121.47,Chicago,US,41.8781,-87.6298,MacBook,0,1,analyst,0
+2026-02-26T06:58:29,charlie,21.125.86.162,Chicago,US,41.8781,-87.6298,Win11-Work,1,1,analyst,0
+2026-02-26T07:10:04,geeta,113.92.46.56,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,employee,0
+2026-02-26T07:33:20,frida,126.196.244.39,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-26T09:03:55,charlie,105.253.146.229,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,1,analyst,0
+2026-02-26T09:29:41,alice,103.110.176.28,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-26T09:45:02,geeta,13.215.163.208,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-26T10:30:44,hari,36.206.242.168,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-26T11:38:49,bob,84.8.163.70,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,admin,1
+2026-02-26T12:14:24,hari,208.192.57.180,Bengaluru,IN,12.9716,77.5946,Win10-Laptop,1,1,engineer,0
+2026-02-26T12:43:57,bob,203.254.177.186,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-26T12:58:15,hari,127.137.138.211,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-26T14:01:02,edgar,104.31.55.207,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-26T15:12:57,dana,32.250.197.183,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-26T16:35:54,frida,49.39.14.59,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-26T17:05:15,hari,93.143.122.246,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-02-26T17:14:59,edgar,233.236.159.12,Chicago,US,41.8781,-87.6298,MacBook,1,0,employee,0
+2026-02-26T17:15:24,dana,9.51.118.189,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-26T17:31:45,alice,156.38.17.33,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,employee,0
+2026-02-26T18:11:20,charlie,195.199.44.148,Chicago,US,41.8781,-87.6298,MacBook,0,1,analyst,0
+2026-02-26T18:41:42,edgar,138.39.190.149,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-26T21:05:32,bob,60.215.20.88,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,admin,1
+2026-02-27T00:17:39,alice,153.136.76.117,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-02-27T02:50:28,bob,111.48.175.150,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-02-27T07:15:14,charlie,99.129.151.79,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-27T07:55:09,frida,47.214.44.192,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-02-27T08:06:29,edgar,210.28.30.128,New York,US,40.7128,-74.006,Win10-Laptop,1,0,employee,0
+2026-02-27T08:29:09,hari,108.63.54.212,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-27T08:33:41,geeta,177.79.114.14,Philadelphia,US,39.9526,-75.1652,Android,1,1,employee,0
+2026-02-27T08:35:46,alice,106.87.212.117,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-27T09:00:02,dana,40.96.198.23,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-27T09:02:28,frida,127.29.217.185,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-27T11:08:58,hari,200.210.36.76,London,GB,51.5074,-0.1278,MacBook,1,1,engineer,0
+2026-02-27T11:15:44,edgar,232.79.211.204,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-02-27T11:32:38,alice,168.167.225.197,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-27T11:42:24,bob,22.69.40.98,San Jose,US,37.3382,-121.8863,iPhone,1,1,admin,1
+2026-02-27T11:49:06,dana,175.247.80.240,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-27T13:40:19,dana,56.250.29.61,New York,US,40.7128,-74.006,MacBook,1,1,analyst,0
+2026-02-27T14:05:01,geeta,50.175.172.17,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-27T14:25:27,charlie,52.188.96.244,Chicago,US,41.8781,-87.6298,Win10-Laptop,1,0,analyst,0
+2026-02-27T17:14:03,hari,37.97.188.7,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-27T17:15:10,dana,249.195.161.16,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-27T17:32:52,frida,150.249.2.135,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-27T17:40:27,dana,31.102.203.63,New York,US,40.7128,-74.006,Win10-Laptop,1,1,analyst,0
+2026-02-27T18:11:02,frida,30.230.238.127,New York,US,40.7128,-74.006,Android,1,1,employee,0
+2026-02-27T18:20:10,dana,134.32.65.124,New York,US,40.7128,-74.006,Android,0,1,analyst,0
+2026-02-27T19:00:57,charlie,174.2.161.188,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-02-27T19:38:00,geeta,96.233.62.52,Bengaluru,IN,12.9716,77.5946,Win11-Work,1,1,employee,0
+2026-02-27T20:48:10,charlie,158.112.163.110,Chicago,US,41.8781,-87.6298,MacBook,1,0,analyst,0
+2026-02-28T00:26:09,hari,136.179.243.77,San Jose,US,37.3382,-121.8863,iPhone,1,1,engineer,0
+2026-02-28T02:14:56,geeta,132.28.209.84,Chicago,US,41.8781,-87.6298,Android,1,0,employee,0
+2026-02-28T03:23:51,alice,144.85.172.32,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,0,1,employee,0
+2026-02-28T06:14:13,geeta,81.4.100.55,London,GB,51.5074,-0.1278,iPhone,1,1,employee,0
+2026-02-28T11:21:01,frida,96.152.238.244,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-28T12:10:04,charlie,187.134.153.135,Chicago,US,41.8781,-87.6298,iPhone,1,1,analyst,0
+2026-02-28T12:25:26,alice,66.96.245.40,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-02-28T12:49:36,frida,128.174.25.228,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-02-28T12:55:10,hari,4.146.213.209,London,GB,51.5074,-0.1278,Android,1,1,engineer,0
+2026-02-28T13:43:59,alice,111.25.191.190,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,0,employee,0
+2026-02-28T13:44:27,hari,19.123.215.153,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-02-28T13:45:50,bob,28.24.2.242,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,admin,1
+2026-02-28T14:21:27,charlie,231.126.92.193,Chicago,US,41.8781,-87.6298,MacBook,1,1,analyst,0
+2026-02-28T16:20:35,geeta,102.241.110.31,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-02-28T16:35:32,bob,24.153.154.201,Philadelphia,US,39.9526,-75.1652,MacBook,0,1,admin,1
+2026-02-28T17:38:51,edgar,87.208.214.252,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-02-28T18:06:53,frida,182.169.123.117,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-02-28T19:47:43,edgar,140.36.83.215,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-02-28T22:19:28,bob,48.111.115.143,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,admin,1
+2026-03-01T02:27:43,hari,67.236.147.129,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-03-01T04:30:26,hari,4.74.29.40,San Jose,US,37.3382,-121.8863,MacBook,1,1,engineer,0
+2026-03-01T09:20:46,frida,34.55.221.13,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-03-01T09:29:14,geeta,18.227.56.106,San Jose,US,37.3382,-121.8863,Android,1,1,employee,0
+2026-03-01T10:18:38,alice,40.169.124.58,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-03-01T10:54:06,alice,72.147.58.207,Philadelphia,US,39.9526,-75.1652,iPhone,1,1,employee,0
+2026-03-01T11:03:56,hari,42.3.102.214,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-03-01T14:43:59,geeta,163.195.227.177,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-03-01T15:26:22,alice,235.185.14.248,Philadelphia,US,39.9526,-75.1652,MacBook,1,1,employee,0
+2026-03-01T17:51:41,frida,141.244.155.98,New York,US,40.7128,-74.006,Win10-Laptop,1,1,employee,0
+2026-03-01T18:19:49,geeta,138.203.254.237,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-03-01T19:40:17,frida,168.160.244.116,New York,US,40.7128,-74.006,Win10-Laptop,0,1,employee,0
+2026-03-01T23:54:36,geeta,252.162.179.100,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-03-02T03:20:54,geeta,234.150.115.98,Philadelphia,US,39.9526,-75.1652,MacBook,1,0,employee,0
+2026-03-02T04:13:10,frida,245.168.40.31,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-03-02T07:19:31,frida,232.176.155.34,New York,US,40.7128,-74.006,iPhone,1,1,employee,0
+2026-03-02T10:19:45,hari,24.134.97.251,San Jose,US,37.3382,-121.8863,Win10-Laptop,1,1,engineer,0
+2026-03-02T11:05:25,frida,103.23.6.219,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-03-02T18:32:40,geeta,4.60.6.158,Philadelphia,US,39.9526,-75.1652,Win10-Laptop,1,1,employee,0
+2026-03-03T09:27:05,frida,166.176.183.40,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,employee,0
+2026-03-03T09:36:38,frida,158.48.112.162,New York,US,40.7128,-74.006,MacBook,1,1,employee,0
+2026-03-03T10:22:42,frida,227.100.122.69,London,GB,51.5074,-0.1278,Win10-Laptop,1,1,employee,0
+2026-03-04T00:59:31,frida,120.112.21.233,New York,US,40.7128,-74.006,MacBook,1,0,employee,0
+2026-03-04T19:51:30,frida,77.216.64.134,New York,US,40.7128,-74.006,Win11-Work,1,1,employee,0
